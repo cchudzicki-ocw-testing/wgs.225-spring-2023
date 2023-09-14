@@ -7,7 +7,7 @@ file_size: 36496
 file_type: image/jpeg
 image_metadata:
   caption: "An image of a just-divided HeLa cell as seen under a scanning electron\
-    \ micrograph.HeLa is one of the most commonly used human cell lines in research.\
+    \ micrograph. HeLa is one of the most commonly used human cell lines in research.\
     \ The cell line was derived from cancer cells from an African-American woman,\
     \ Henrietta Lacks, in 1951, without her consent and with no compensation. \_(Image\
     \ by the National Institutes of Health. License: CC BY-NC.)"
