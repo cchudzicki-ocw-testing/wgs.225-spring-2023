@@ -6,6 +6,15 @@
   ],
   "topics": [
     [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ],
+    [
       "Society",
       "Gender Studies"
     ],
@@ -27,7 +36,7 @@
   },
   "course_title": "Science and Race, Sex, and Gender",
   "hide_download": false,
-  "course_description": "",
+  "course_description": "This course examines the role of science and medicine in the origins and evolution of concepts of race, sex, and gender from the 17th century to the present. We analyze biological, medical, and anthropological studies and how they intersect with historical, social, political, and cultural ideas about racial, sexual and gender difference. The course follows lecture/discussion format.",
   "department_numbers": [
     "WGS",
     "21A",
@@ -39,7 +48,9 @@
     "content": "",
     "website": "wgs225-since-and-race-sex-and-gender"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Readings"
+  ],
   "site_uid": "5860eeef-6c9d-4a9a-bf9a-b27da99ae748",
   "site_short_id": "wgs.225-spring-2023"
 }
