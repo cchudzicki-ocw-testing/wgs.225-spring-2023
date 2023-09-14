@@ -15,13 +15,10 @@ There are no prerequisites for this course.
 
 ## Grading
 
-Two papers: 60%
-
-Oral presentation: 10%
-
-Class participation: 30%
-
-For MIT students: Punctual attendance is obligatory. There is no final. 
+- Two papers: 60%
+- Oral presentation: 10%
+- Class participation: 30%
+- For MIT students: Punctual attendance is obligatory. There is no final. 
 
 ## Calendar
 
