@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "1619043a-517d-06ae-7e56-41fab57835ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "wgs225-since-and-race-sex-and-gender"
+  },
+  "course_title": "Science and Race, Sex, and Gender",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "WGS",
+    "21A",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.046, 21A.242",
+  "primary_course_number": "WGS.225",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "wgs225-since-and-race-sex-and-gender"
+  },
+  "learning_resource_types": [],
+  "site_uid": "5860eeef-6c9d-4a9a-bf9a-b27da99ae748",
+  "site_short_id": "wgs.225-spring-2023"
+}
